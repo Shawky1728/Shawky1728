@@ -17,7 +17,7 @@ I'm a software developer with a strong passion for building scalable, efficient,
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/mahmoud-shawky-590115260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/invites/contact/?igsh=dyzvhd8wg44g&utm_content=mpvbc2t"><img
+<a href="https://www.instagram.com/mahmoud_shawky34/"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Instagram"></a>
 
