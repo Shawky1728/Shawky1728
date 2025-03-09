@@ -21,7 +21,7 @@ I'm a software developer with a strong passion for building scalable, efficient,
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Instagram"></a>
 
-### 🛠 &nbsp;Technologies that I work with
+
 ## 🛠 &nbsp;Technologies I Work With:
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
