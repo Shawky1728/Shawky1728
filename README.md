@@ -7,7 +7,7 @@
 I'm a software developer with a strong passion for building scalable, efficient, and reliable backend systems.
 </p>
 
-- 👨‍💻 I’m currently working on backend development technologies like .NET and databases.
+- 👨‍💻 I’m currently specializing in backend development, working with .NET technologies, relational databases to build robust, scalable, and high-performance systems.
 - 📚 I’m currently learning about system design, microservices, and cloud computing.
 - 🎯 Future Goals: Enhance backend performance - Build scalable architectures.
   
