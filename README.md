@@ -1,17 +1,16 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm Mahmoud Shawky 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
 I'm a software developer with a strong passion for building scalable, efficient, and reliable backend systems.
 </p>
 
-- 👨‍💻 I’m currently specializing in backend development, working with .NET technologies, relational databases to build robust, scalable, and high-performance systems.
-- 📚 I’m currently learning about system design, microservices, and cloud computing.
-- 🎯 Future Goals: Enhance backend performance - Build scalable architectures.
+- I’m currently specializing in backend development, working with .NET technologies, relational databases to build robust, scalable, and high-performance systems.
+- I’m currently learning about system design, microservices, and cloud computing.
+- Future Goals: Enhance backend performance - Build scalable architectures.
   
-- 📫 Social links
+- Social links
 <p>
 <a href="https://www.facebook.com/profile.php?id=100009091417273"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -22,7 +21,7 @@ I'm a software developer with a strong passion for building scalable, efficient,
     alt="Instagram"></a>
 
 
-## 🛠 &nbsp;Technologies I Work With:
+## &nbsp;Technologies I Work With:
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft-sql-server)
